@@ -15,3 +15,11 @@ Aplicar k-means na base de filmes do MovieLens.
 ### Setup
 * pip install -r requirements.txt
 * Baixar a [base de 1mb do MovieLens](http://files.grouplens.org/datasets/movielens/ml-latest-small.zip) e extrair os arquivos para a pasta *./data/movielens/*
+
+## Projeto 2
+Aplicar diferentes técnicas de classificação em uma base desconhecida.
+
+### Setup
+* pip install -r requirements.txt
+* Baixar a base para a pasta *./data/classificacao/*
+
